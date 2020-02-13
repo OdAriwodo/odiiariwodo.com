@@ -27,7 +27,7 @@ paginate = 10
   # Shown in the side menu.
   [[menu.navigation]]
     name = "Home"
-    pre = "<i class='fa fa-home fa-fw'></i>"
+    pre = "<i class='fas fa-home fa-fw'></i>"
     weight = 1
     identifier = "home"
     url = "/"
@@ -35,25 +35,25 @@ paginate = 10
 	
   [[menu.content]]
     name = "Posts"
-    pre = "<i class='fa fa-picture-o fa-fw'></i>"
+    pre = "<i class='fas fa-image fa-fw'></i>"
     weight = 2
     identifier = "posts"
     url = "/posts/"
   [[menu.content]]
     name = "Pages"
-    pre = "<i class='fa fa-file-text fa-fw'></i>"
+    pre = "<i class='fas fa-file-alt fa-fw'></i>"
     weight = 3
     identifier = "pages"
     url = "/pages/"
   [[menu.content]]
     name = "Categories"
-    pre = "<i class='fa fa-folder fa-fw'></i>"
+    pre = "<i class='fas fa-folder fa-fw'></i>"
     weight = 4
     identifier = "categories"
     url = "/categories/"
   [[menu.content]]
     name = "Tags"
-    pre = "<i class='fa fa-tags fa-fw'></i>"
+    pre = "<i class='fas fa-tags fa-fw'></i>"
     weight = 5
     identifier = "tags"
     url = "/tags/"
@@ -61,13 +61,13 @@ paginate = 10
 
   [[menu.site]]  
     name = "About"
-    pre = "<i class='fa fa-sitemap fa-fw'></i>"
+    pre = "<i class='fas fa-sitemap fa-fw'></i>"
     weight = 6
     identifier = "about-the-site"
     url = "/pages/about-the-site/"	
   [[menu.site]]  
     name = "RSS"
-    pre = "<i class='fa fa-rss fa-fw'></i>"
+    pre = "<i class='fas fa-rss fa-fw'></i>"
     weight = 7
     identifier = "rss"
     url = "/index.xml"
@@ -75,13 +75,13 @@ paginate = 10
 	
   [[menu.author]]
     name = "About"
-    pre = "<i class='fa fa-user fa-fw'></i>"
+    pre = "<i class='fas fa-user fa-fw'></i>"
     weight = 8
 	identifier = "about-the-author"
     url = "/pages/about-the-author/"
   [[menu.author]]
     name = "Contact"
-    pre = "<i class='fa fa-phone fa-fw'></i>"
+    pre = "<i class='fas fa-phone fa-fw'></i>"
     weight = 9
 	identifier = "contact"
     url = "/pages/contact/"

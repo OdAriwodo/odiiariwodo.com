@@ -1,10 +1,12 @@
 ---
 title: Page1
 date: 2020-02-11T15:20:15-05:00
-categories:
-- Category2
 tags:
-- Tag1
+  - Tag1
+  - My-new-tag
+categories:
+  - Category2
+draft: false
 inprogress: false
 ---
 
